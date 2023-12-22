@@ -1,11 +1,10 @@
-- 👋 Hi, I’m Mesame7
-- 🌱 I’m currently learning Communication and networks engineering
+- 👋 Hi, I’m Ahmed
+- 🌱 I’m currently learning Computer Engineering
 - 📫 How to reach me :
-      +201017771027
       
       ahmed.alaa.mesameh@gmail.com
       
-      ahmed.mesameh@student.guc.edu.eg
+      ahmed.mansour@stud.uni-due.de
       
       
       
